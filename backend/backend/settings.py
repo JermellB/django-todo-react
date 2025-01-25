@@ -128,3 +128,4 @@ STATIC_URL = '/static/'
 CORS_ORIGIN_WHITELIST = (
      'localhost:3000/'
  )
+SESSION_COOKIE_SECURE = True
